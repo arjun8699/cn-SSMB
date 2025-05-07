@@ -34,8 +34,8 @@ class server {
         }
     }
 }
-
-
+'''
+'''
 # client code
 import java.io.*;
 import java.net.*;
@@ -116,8 +116,8 @@ public class TCPServer {
         sok.close();
     }
 }
-
-
+'''
+'''
 # client code
 import java.net.*;
 import java.io.*;
@@ -184,7 +184,8 @@ class UDPClient {
         clientSocket.close();
     }
 }
-
+'''
+'''
 # server code
 import java.io.*;
 import java.net.*;
